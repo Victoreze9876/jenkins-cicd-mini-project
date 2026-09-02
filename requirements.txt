@@ -1,0 +1,2 @@
+# No third-party dependencies are required.
+# Python's built-in unittest module is used for automated testing.
