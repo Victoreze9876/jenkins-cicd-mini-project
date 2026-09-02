@@ -29,5 +29,5 @@ A successful Jenkins run should show all pipeline stages as successful. The gene
 `deployment/jenkins-cicd-app.zip`
 
 ## Notes
-
+Automatic Jenkins trigger test completed.
 This project does not require third-party Python packages. Python's built-in `unittest` framework is used for testing.
